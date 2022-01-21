@@ -1,7 +1,11 @@
 # fav_app
-thisis issiis
-
 A new Flutter project.
+In this app which is build by flutter, here I used Stateful and Stateless widgets.
+Visible(Input/Output) and Invisible(Layout/Control). 
+Complex with lots of config options(eg. MaterialApp) and simpler(eg. Text). 
+Styling, and Positioning via code in the widget tree.
+Widgets can work together to achieve a certain look and structure
+
 
 ## Getting Started
 
